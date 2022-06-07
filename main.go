@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
-	"strings"
 )
 
-
+func main() {
+	fmt.Printf("Olá mundo")
+	fmt.Printf("Test commit")
+}
