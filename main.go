@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Printf("Olá mundo")
+	fmt.Printf("Test commit")
 }
